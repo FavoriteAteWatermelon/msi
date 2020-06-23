@@ -1,0 +1,5 @@
+${PODS_ROOT}/Target Support Files/Pods-msi/Pods-msi-resources.sh
+${PODS_ROOT}/ZBarSDK/iphone/res/zbar-back.png
+${PODS_ROOT}/ZBarSDK/iphone/res/zbar-help.html
+${PODS_ROOT}/ZBarSDK/iphone/res/zbar-helpicons.png
+${PODS_ROOT}/ZBarSDK/iphone/res/zbar-samples.png
